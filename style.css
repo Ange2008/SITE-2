@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:#f5e9e9; 
+    --preto: #1E1E1E;
+    --branco:#ffffff;
+    --botao-ativo: #5e519c;
+    --botao-inativo: #565071;
+    --texto-fundo: #ffffff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
