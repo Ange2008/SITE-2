@@ -5,5 +5,6 @@
     --botao-ativo: #5e519c;
     --botao-inativo: #565071;
     --texto-fundo: #ffffff;
+    --fonte: Cascadia Code;
 }
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
