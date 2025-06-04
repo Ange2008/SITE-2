@@ -1,10 +1,10 @@
 :root{
-    --cor-de-fundo:hsl(30, 2%, 22%); 
-    --preto: #fefefe;
+    --cor-de-fundo:hsl(116, 79%, 89%); 
+    --preto: #020202;
     --branco:#ffffff;
     --botao-ativo: #63fac5;
     --botao-inativo: #039a51;
-    --texto-fundo: #fefcfc;
+    --texto-fundo: #0e0e0e;
     --fonte: 'Cascadia Code';
 }
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
