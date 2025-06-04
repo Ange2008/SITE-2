@@ -1,9 +1,9 @@
 :root{
-    --cor-de-fundo:#F5F5F5; 
+    --cor-de-fundo:#fae8c4; 
     --preto: #212121;
     --branco:#ffffff;
-    --botao-ativo: #4CAF50;
-    --botao-inativo: #B0BEC5;
+    --botao-ativo: #372502;
+    --botao-inativo: #fde7ac;
     --texto-fundo: #212121;
     --fonte: 'Cascadia Code';
 }
