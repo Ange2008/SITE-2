@@ -2,9 +2,9 @@
     --cor-de-fundo:#e6b68b;   
     --azul:#cd966c; 
     --branco:#7c3b1a; 
-    --botao-ativo: #9a5833; 
-    --botao-inativo:#874421;  
-    --texto-fundo:#cd966c; 
+    --botao-ativo: #b4764f; 
+    --botao-inativo:#9a5833;  
+    --texto-fundo:#874421; 
     --fonte: 'Cascadia Code'; 
 }
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap');
